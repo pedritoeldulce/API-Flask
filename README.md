@@ -1,6 +1,10 @@
 # API REST - Python - Flask
 Desarrollo de una APi rest en Python con el framework Flask
 
+- Entorno Virtual; uso de pipenv
+- Flask (framework)
+- Insomnia: Permite envíar datos a nuestra RestApi
+
 ## API REST
 
 Un API de Transferencia de estado representacional (REST), o API de RESTful, es una interfaz de programación de aplicaciones que se ahusta a los límites de la arquitectura REST.
